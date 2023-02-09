@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700&display=swap');
+body{
+    background-color:hsl(34, 61%, 92%);
+}
+.flex-container{
+    width: 325px;
+        height: 100px;
+        padding: 150px;
+        margin: 20px;
+        margin-top: 4cm;
+        margin-left: 9.5cm;
+        background-color: white;
+        border-radius: .5cm;
+}
+img{
+    width: 300px;
+    height: 400px;
+    margin-top: -3.97cm;
+    margin-left: -3.97cm;
+    border-top-left-radius: .5cm;
+    border-bottom-left-radius: .5cm;
+}
+.MAIN_1{
+    margin-top: -10.5cm;
+    margin-left: 18.5cm;
+    font-weight: lighter;
+    color:  hsl(228, 12%, 48%);
+    font-family: "Montserrat";
+    letter-spacing: 0.15cm;
+    font-size: small;
+}
+.second{
+    margin-left: 18.5cm;
+    font-size: x-large;
+    font-family: "Fraunces",serif;
+}
+.third{
+    margin-left: 18.5cm;
+    color:  hsl(228, 12%, 48%);
+    font-weight: large;
+    font-family: sans-serif;
+}
+
+.fourth{
+    margin-left: 18.5cm;
+    margin-top: .5cm;
+    font-size: xx-large;
+    color:hsl(158, 36%, 37%);
+    font-family: 'Fraunces';
+
+}
+.fourthy{
+    margin-left: 22.5cm;
+    margin-top: -0.7cm;
+}
+
+.button span{
+    margin-left: 19cm;
+    margin-top: -1.5cm;
+    font-family: sans-serif;
+    font-weight: 540;
+    justify-content: center;
+    display: flex;
+    border: 0px solid hsl(158, 36%, 37%);
+    width: 200px;
+    background-color: hsl(158, 36%, 37%);
+    border-radius: .2cm;
+    color: white;
+    padding: 10px;
+}
+.button img{
+    margin-left: 19cm;
+    margin-top: .1cm;
+    margin-bottom: -.5cm;
+    display: flex;
+    justify-content: center;
+    height: 1.5rem;
+    width: 1.5rem;
+    padding: 26px;
+}
+
+.attribution{
+    margin-top: 2cm;
+    margin-left: 11cm;
+}
